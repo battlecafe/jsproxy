@@ -77,7 +77,7 @@ jsproxy_config({
     'https://www.pornhub.com/': {
       redir: 'https://php.net/'
     },
-    'http://haha.com/': {
+    'haha': {
       content: 'Hello World'
     },
   }
